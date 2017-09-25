@@ -1,3 +1,4 @@
-# My Awesome Book
+# Manual de Uso para el sitio web Holcim Ecuador
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Se dara un manual de uso para el rol administrativo del sitio web Holcim Ecuador PVE
+
