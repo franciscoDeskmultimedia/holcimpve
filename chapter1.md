@@ -8,7 +8,7 @@ Abrira el sitio en accesos administrativos![](/assets/DeepinScreenshot_select-ar
 
 # Accesos Administrativo
 
-URL : [http://holcimecuador.com/user](http://holcimecuador.com/user)
+**URL :** [http://holcimecuador.com/user](http://holcimecuador.com/user)
 
 ![](/assets/DeepinScreenshot_select-area_20170925175847.png)
 
@@ -19,8 +19,4 @@ Se abrirar esta pantalla donde se ingresaran el usuario y contraseña proporcion
 Luego de ingresar el usuario y la contraseña correspondientes se desplegara sobre el sitio una barra en la parte superior de sitio , otorgando accesos a secciones administrativas.
 
 ![](/assets/DeepinScreenshot_select-area_20170925180545.png)
-
-
-
-
 
