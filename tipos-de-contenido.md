@@ -8,7 +8,7 @@ Tenemos 5 tipos de contenidos:
 
 * [Historias](/tipos-de-contenido/historias.md)
 
-* Intro Paginas subcategorias
+* [Intro Paginas subcategorias](/tipos-de-contenido/intro-paginas-subcategorias.md)
 
 * [Noticias](/tipos-de-contenido/noticias.md)
 
