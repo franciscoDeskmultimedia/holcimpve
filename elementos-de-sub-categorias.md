@@ -16,7 +16,7 @@ Cada categoria tiene elementos editables :
 
 * [Nombre](#subcategorianmbre)
 * [Color Categoria](#subcategoriacolorcategoria)
-* Imagen menu card
+* [Imagen menu card](#subcategoriaimagenmenucard)
 
 #### -Nombre {#subcategorianmbre}
 
@@ -34,7 +34,7 @@ Este afecta directamente al color del menu, color del background de el texto de 
 
 ej: La sub-categoria Conoce Holcim tiene definido el color "\#7c6e65"
 
-### -Imagen menu card
+### -Imagen menu card {#subcategoriaimagenmenucard}
 
 Define la imagen de la carta
 
