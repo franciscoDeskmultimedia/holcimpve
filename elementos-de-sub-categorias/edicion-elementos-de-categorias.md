@@ -9,7 +9,7 @@ Se necesita : accesos de administrador.
 3. Se desplegara un menu y hacemos click sobre la opcion "Menu".  
    ![](/assets/DeepinScreenshot_select-area_20170926224647.png)
 
-4. Se cargara la pagina de las taxonomias menu mostrando un arbol de contenido.
+4. Se cargara la pagina de la taxonomia "menu" mostrando un arbol de contenido.
 
    ![](/assets/DeepinScreenshot_select-area_20170927000036.png)
 
