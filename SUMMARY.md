@@ -7,4 +7,9 @@
 * [Elementos de sub-categorias](elementos-de-sub-categorias.md)
   * [Edición elementos de sub-categorias](elementos-de-sub-categorias/edicion-elementos-de-categorias.md)
 * [Tipos de Contenido](tipos-de-contenido.md)
+  * Banner especifico por categoria
+  * Contenido paginas subcategorias
+  * Historias
+  * Intro Paginas subcategorias
+  * Noticias
 
