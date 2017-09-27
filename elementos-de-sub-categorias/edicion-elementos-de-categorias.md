@@ -13,9 +13,10 @@ Se necesita : accesos de administrador.
 
    ![](/assets/DeepinScreenshot_select-area_20170927000036.png)
 
-5. Las categorias se encuentran en el primer nivel , para editarlas hacer click en el vinculo "editar" ubicado del lado derecho de cada categoria.
+5. Las sub-categorias se encuentran en el segundo nivel . Para editarlas hacer click en el vinculo "editar" ubicado del lado derecho de cada categoria.
 
-   ![](/assets/DeepinScreenshot_select-area_20170927000423.png)
+   ![](/assets/DeepinScreenshot_select-area_20170927004252.png)
 
+6. 
 
 
