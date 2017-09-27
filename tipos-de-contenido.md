@@ -10,7 +10,7 @@ Tenemos 5 tipos de contenidos:
 
 * Intro Paginas subcategorias
 
-* Noticias
+* [Noticias](/tipos-de-contenido/noticias.md)
 
 
 
