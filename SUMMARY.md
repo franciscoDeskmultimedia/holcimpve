@@ -12,5 +12,5 @@
   * [Contenido paginas subcategorias](tipos-de-contenido/contenido-paginas-subcategorias.md)
   * [HIstorias](tipos-de-contenido/historias.md)
   * Intro Paginas subcategorias
-  * Noticias
+  * [Noticias](tipos-de-contenido/noticias.md)
 
