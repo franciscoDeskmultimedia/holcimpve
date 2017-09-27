@@ -17,6 +17,15 @@ Se necesita : accesos de administrador.
 
    ![](/assets/DeepinScreenshot_select-area_20170927004252.png)
 
-6. 
+6. Se cargara la pagina de edicion de la sub-categoria con los campo que pueden ser editados.
+
+   ![](/assets/DeepinScreenshot_select-area_20170927004641.png)
+
+   ![](/assets/DeepinScreenshot_select-area_20170927004733.png)
+
+7. Se realizan las ediciones necesarias y para finalizar se hace click en el boton "Guardar" ubicado al final de la pagina.  
+  
+   ![](/assets/DeepinScreenshot_select-area_20170927004916.png)
+
 
 
