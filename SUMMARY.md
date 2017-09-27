@@ -10,7 +10,7 @@
   * [Edición de contenidos](tipos-de-contenido/edicion-de-contenidos.md)
   * [Banner especifico por categoria](tipos-de-contenido/banner-especifico-por-categoria.md)
   * [Contenido paginas subcategorias](tipos-de-contenido/contenido-paginas-subcategorias.md)
-  * Historias
+  * [HIstorias](tipos-de-contenido/historias.md)
   * Intro Paginas subcategorias
   * Noticias
 
