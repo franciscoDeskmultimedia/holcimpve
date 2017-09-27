@@ -4,10 +4,10 @@ Contenido que aparece luego de el intro de cada subcategoria.
 
 ### ![](/assets/DeepinScreenshot_select-area_20170927162009.png)Campos editables
 
-* Categoria
-* Title
-* Imagen Contenido
-* Body
+* [Categoria](#bannerespecificocategoria)
+* [Title](#bannerespecificotitle)
+* [Imagen Contenido](#bannerespecificoimagencontenido)
+* [Body](#bannerespecificobody)
 
 #### -Categoria {#bannerespecificocategoria}
 
@@ -23,15 +23,29 @@ Titulo para el banner. Este campo no se muestra es para fines administrativos.
 
 ![](/assets/DeepinScreenshot_select-area_20170927164142.png)
 
-#### -Imagen Contenido
+#### -Imagen Contenido {#bannerespecificoimagencontenido}
 
 Imagen que ira antes del cuerpo
 
-
-
-#### -Body
+#### -Body {#bannerespecificobody}
 
 El cuerpo del contenido
+
+![](/assets/DeepinScreenshot_select-area_20170927164828.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
