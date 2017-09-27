@@ -14,9 +14,29 @@ Ej: La categoria Nosotors tiene las siguientes sub-categorias:
 
 Cada categoria tiene elementos editables :
 
-* Nombre
-* Color Categoria
+* [Nombre](#subcategorianmbre)
+* [Color Categoria](#subcategoriacolorcategoria)
 * Imagen menu card
 
+#### -Nombre {#subcategorianmbre}
 
+Este campo le da el nombre a la subcategoria .
+
+![](/assets/DeepinScreenshot_select-area_20170927003004.png)
+
+![](/assets/DeepinScreenshot_select-area_20170927003124.png)
+
+#### -Color Categoria {#subcategoriacolorcategoria}
+
+Define el color de la sub-categoria.
+
+Este afecta directamente al color del menu, color del background de el texto de la categoria , etc..
+
+ej: La sub-categoria Conoce Holcim tiene definido el color "\#7c6e65"
+
+### -Imagen menu card
+
+Define la imagen de la carta
+
+![](/assets/DeepinScreenshot_select-area_20170927003545.png)
 
