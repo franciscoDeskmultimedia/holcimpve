@@ -2,7 +2,7 @@
 
 Tenemos 5 tipos de contenidos:
 
-* Banner especifico por categoria
+* [Banner especifico por categoria](/tipos-de-contenido/banner-especifico-por-categoria.md)
 
 * [Contenido paginas subcategorias](/tipos-de-contenido/contenido-paginas-subcategorias.md)
 
