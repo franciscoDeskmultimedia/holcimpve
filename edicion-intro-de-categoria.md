@@ -6,7 +6,7 @@ Se define como Categoria a las secciones : Nosotros, Nuestra gente, Desarrollo s
 
 ### Elementos editables
 
-Cada seccion tiene elementos editables :
+Cada categoria tiene elementos editables :
 
 * [Nombre](#taxonomianombre)
 * [Color categoria](#taxonomiacolorcategoria)
@@ -45,6 +45,4 @@ Define el texto que va sobre el Banner
 Define el video que va en la parte inferior de cada categoria.
 
 ![](/assets/DeepinScreenshot_select-area_20170926223229.png)
-
-
 
