@@ -19,7 +19,7 @@ A las sub-categorias les precede un guion "-".
 
 #### -Title {#bannerespecificotitle}
 
-Titulo para el banner. Este campo no se muestra es para fines administrativos.
+Titulo de la sección.
 
 ![](/assets/DeepinScreenshot_select-area_20170927164142.png)
 
@@ -32,20 +32,4 @@ Imagen que ira antes del cuerpo
 El cuerpo del contenido
 
 ![](/assets/DeepinScreenshot_select-area_20170927164828.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
