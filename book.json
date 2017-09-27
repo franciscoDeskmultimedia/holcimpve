@@ -1,12 +1,4 @@
 {
-"plugins": [
-    "-autotheme",
-    "-fancybox",
-    "-lunr",
-    "-fontsettings",
-    "-sharing",
-    "-search",
-    "theme-material"
-  ]
+"plugins": ["-highlight", "prism", "prism-themes"]
 }
 
