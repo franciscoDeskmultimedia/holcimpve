@@ -1,4 +1,4 @@
 {
-"plugins": ["-highlight", "prism", "prism-themes"]
+"plugins": ["theme-default"]
 }
 
