@@ -1,5 +1,5 @@
 {
-"plugins": ["theme-default"],
+"plugins": ["theme-default","fancybox"],
 "variables": {
     "logo": "assets/Logo-Holcim-Ecuador.png"
   }
