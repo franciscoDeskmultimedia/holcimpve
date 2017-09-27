@@ -1,5 +1,7 @@
 # Edición Banner especifico por categoria
 
+Se necesita : acceso administrativo.
+
 ### Pasos :
 
 1. Nos ubicamos en la barra superior y hacemos click en el menu contenido.
