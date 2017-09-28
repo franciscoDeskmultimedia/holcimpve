@@ -1,8 +1,8 @@
-# Contenido paginas subcategorias
+# Contenido páginas sub-categorías
 
 ---
 
-Contenido que aparece luego de el intro de cada subcategoria.
+Contenido que aparece luego de el intro de cada sub-categoría.
 
 ### ![](/assets/DeepinScreenshot_select-area_20170927162009.png)Campos editables
 
@@ -11,23 +11,23 @@ Contenido que aparece luego de el intro de cada subcategoria.
 * [Imagen Contenido](#bannerespecificoimagencontenido)
 * [Body](#bannerespecificobody)
 
-#### -Categoria {#bannerespecificocategoria}
+#### -Categoría {#bannerespecificocategoria}
 
-Es una lista de seleccion de el arbol de categorias y subcategorias .
+Es una lista de selección de el árbol de categorías y sub-categorías .
 
-A las sub-categorias les precede un guion "-".
+A las sub-categorías les precede un guión "-".
 
 ![](/assets/DeepinScreenshot_select-area_20170927143708.png)
 
 #### -Title {#bannerespecificotitle}
 
-Titulo de la sección.
+Título de la sección.
 
 ![](/assets/DeepinScreenshot_select-area_20170927164142.png)
 
 #### -Imagen Contenido {#bannerespecificoimagencontenido}
 
-Imagen que ira antes del cuerpo
+Imagen que irá antes del cuerpo
 
 #### -Body {#bannerespecificobody}
 
