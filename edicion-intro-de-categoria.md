@@ -2,7 +2,7 @@
 
 ---
 
-Se define como Categoria a las secciones : Nosotros, Nuestra gente, Desarrollo sostenibe, Noticias.
+Se define como Categoria a las secciones : Nosotros, Nuestra gente, Desarrollo sostenibe y Noticias.
 
 ![](/assets/DeepinScreenshot_select-area_20170926215839.png)
 
@@ -18,7 +18,7 @@ Cada categoria tiene elementos editables :
 
 #### -Nombre {#taxonomianombre}
 
-Este campo le da el nombre del menu .
+Este campo le da el nombre del menú .
 
 ![](/assets/DeepinScreenshot_select-area_20170926221009.png)
 
@@ -29,6 +29,8 @@ Define el color de la categoria.
 Este afecta directamente al color del menu, color del background de el texto de la categoria , etc..
 
 ej: La categoria Nosotros tiene definido el color "\#7c6e65"
+
+####  {#taxonomiabanner}
 
 #### -Banner {#taxonomiabanner}
 
