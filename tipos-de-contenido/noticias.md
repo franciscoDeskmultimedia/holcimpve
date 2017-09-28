@@ -2,7 +2,7 @@
 
 ---
 
-Seccion donde apareceran los posteos de noticias .
+Sección donde aparecerán los posteos de noticias .
 
 ![](/assets/DeepinScreenshot_select-area_20170927192937.png)
 
@@ -17,7 +17,7 @@ Seccion donde apareceran los posteos de noticias .
 
 #### -Title {#noticiatitle}
 
-Titulo de la noticia.
+Título de la noticia.
 
 ![](/assets/DeepinScreenshot_select-area_20170927194354.png)
 
@@ -45,7 +45,7 @@ Imagen que aparece en el despliegue del listado de noticias.
 
 ![](/assets/DeepinScreenshot_select-area_20170927194955.png)
 
-#### -Categoria {#noticiacategoria}
+#### -Categoría {#noticiacategoria}
 
-La categoria debe ser siempre Noticias.
+La categoría debe ser siempre Noticias.
 
