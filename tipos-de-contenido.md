@@ -1,5 +1,7 @@
 # Tipos de Contenido
 
+---
+
 Tenemos 5 tipos de contenidos:
 
 * [Banner especifico por categoria](/tipos-de-contenido/banner-especifico-por-categoria.md)

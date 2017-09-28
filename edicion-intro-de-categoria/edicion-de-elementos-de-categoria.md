@@ -1,5 +1,7 @@
 # Edicion de elementos de categoria
 
+---
+
 Se necesita : accesos de administrador.
 
 ### Pasos:

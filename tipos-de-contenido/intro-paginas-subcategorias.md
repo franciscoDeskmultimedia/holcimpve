@@ -1,5 +1,7 @@
 # Intro Paginas subcategorias
 
+---
+
 Imagen y parrafo ubicados en la parte superior de las ampliadas de las subcateorias
 
 ### ![](/assets/DeepinScreenshot_select-area_20170927185727.png)

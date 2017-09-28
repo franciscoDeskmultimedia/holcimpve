@@ -1,5 +1,7 @@
 # Edicion de elementos de sub-categoria
 
+---
+
 Se necesita : accesos de administrador.
 
 ### Pasos:
@@ -23,8 +25,8 @@ Se necesita : accesos de administrador.
 
    ![](/assets/DeepinScreenshot_select-area_20170927004733.png)
 
-7. Se realizan las ediciones necesarias y para finalizar se hace click en el boton "Guardar" ubicado al final de la pagina.  
-  
+7. Se realizan las ediciones necesarias y para finalizar se hace click en el boton "Guardar" ubicado al final de la pagina.
+
    ![](/assets/DeepinScreenshot_select-area_20170927004916.png)
 
 

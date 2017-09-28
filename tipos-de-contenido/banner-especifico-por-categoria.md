@@ -1,5 +1,7 @@
 # Banner especifico por categoria
 
+---
+
 Define el banner que va posicionado del lado derecho de cada categoria.
 
 ![](/assets/DeepinScreenshot_select-area_20170927141058.png)
@@ -23,8 +25,6 @@ A las sub-categorias les precede un guion "-".
 
 Titulo para el banner. Este campo no se muestra es para fines administrativos.
 
-
-
 #### -Imagen banner especial {#bannerespecificoimagenbannerespecial}
 
 Imagen que aparecera en el banner
@@ -35,13 +35,9 @@ Imagen que aparecera en el banner
 
 Direccion URL a donde redirigue el banner
 
-de preferencia debe ser una URL Absoluta  
+de preferencia debe ser una URL Absoluta
 
-ej: http://www.solucionesholcim.com
+ej: [http://www.solucionesholcim.com](http://www.solucionesholcim.com)
 
 ![](/assets/DeepinScreenshot_select-area_20170927161516.png)
-
-
-
-
 

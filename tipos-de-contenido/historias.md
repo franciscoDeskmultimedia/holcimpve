@@ -1,5 +1,7 @@
 # Historias
 
+---
+
 Seccion donde apareceran los posteos de historias .
 
 ![](/assets/DeepinScreenshot_select-area_20170927180228.png)
@@ -50,10 +52,4 @@ El contenido de la historia
 De tener frase destacada la historia , es la frase que va al final de la misma con fondo del color de la categoria a la que la historia representa.
 
 ![](/assets/DeepinScreenshot_select-area_20170927182649.png)
-
-
-
-
-
-
 

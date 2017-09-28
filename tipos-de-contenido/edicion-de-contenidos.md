@@ -1,5 +1,7 @@
 # Edición Banner especifico por categoria
 
+---
+
 Se necesita : acceso administrativo.
 
 ### Pasos :

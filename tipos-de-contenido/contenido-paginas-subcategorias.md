@@ -1,5 +1,7 @@
 # Contenido paginas subcategorias
 
+---
+
 Contenido que aparece luego de el intro de cada subcategoria.
 
 ### ![](/assets/DeepinScreenshot_select-area_20170927162009.png)Campos editables
