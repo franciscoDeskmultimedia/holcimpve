@@ -2,7 +2,7 @@
 
 ---
 
-Define el banner que va posicionado del lado derecho de cada categoria.
+Define el banner que va posicionado del lado derecho de cada categoría.
 
 ![](/assets/DeepinScreenshot_select-area_20170927141058.png)
 
@@ -13,29 +13,27 @@ Define el banner que va posicionado del lado derecho de cada categoria.
 * I[magen banner especial](#bannerespecificoimagenbannerespecial)
 * [Vinculo](#bannerespecificovinculo)
 
-#### -Categoria {#bannerespecificocategoria}
+#### -Categoría {#bannerespecificocategoria}
 
-Es una lista de seleccion de el arbol de categorias y subcategorias .
+Es una lista de selección de el árbol de categorías y sub-categorías .
 
-A las sub-categorias les precede un guion "-".
+A las sub-categorías les precede un guión "-".
 
 ![](/assets/DeepinScreenshot_select-area_20170927143708.png)
 
 #### -Title {#bannerespecificotitle}
 
-Titulo para el banner. Este campo no se muestra es para fines administrativos.
+Título para el banner. Este campo no se muestra es para fines administrativos.
 
 #### -Imagen banner especial {#bannerespecificoimagenbannerespecial}
 
-Imagen que aparecera en el banner
+Imagen que aparecerá en el banner
 
 ![](/assets/DeepinScreenshot_select-area_20170927161158.png)
 
-#### -Vinculo {#bannerespecificovinculo}
+#### -Vínculo {#bannerespecificovinculo}
 
-Direccion URL a donde redirigue el banner
-
-de preferencia debe ser una URL Absoluta
+Dirección URL a donde redirige el banner, de preferencia debe ser una URL Absoluta
 
 ej: [http://www.solucionesholcim.com](http://www.solucionesholcim.com)
 
