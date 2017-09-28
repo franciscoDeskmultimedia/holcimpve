@@ -2,8 +2,6 @@
 
 # Manual de Uso para el sitio web Holcim Ecuador
 
-Se dara un manual de uso para el rol administrativo del sitio web Holcim Ecuador PVE
-
 ### Producción
 
 **URL : **[http://holcimecuador.com/](http://holcimecuador.com/)
