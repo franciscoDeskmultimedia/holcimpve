@@ -23,7 +23,7 @@ Titulo de la noticia.
 
 #### -Resumen {#noticiaresumen}
 
-Resumen del contenido . este aparece en el previsualizado de la noticia \( en las listas de noticias \). 
+Resumen del contenido . este aparece en el previsualizado de la noticia \( en las listas de noticias \).
 
 ![](/assets/DeepinScreenshot_select-area_20170927194456.png)
 
@@ -48,8 +48,4 @@ Imagen que aparece en el despliegue del listado de noticias.
 #### -Categoria {#noticiacategoria}
 
 La categoria debe ser siempre Noticias.
-
-
-
-
 
