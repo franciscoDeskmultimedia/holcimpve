@@ -1,4 +1,4 @@
-# Banner especifico por categoria
+# Banner específico por categoría
 
 ---
 
